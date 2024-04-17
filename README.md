@@ -2,6 +2,9 @@
 
 Welcome to my project for a simple yet effective electronic to-do list! This application allows users to create and delete tasks, providing an easy-to-use way to manage their tasks.
 
+
+![2024-04-17 20_51_07-To Do List](https://github.com/Giannoulalala/To-Do-List/assets/52848577/0841eaa7-5f51-4480-b316-74f9902030ec)
+
 ## Description
 
 This application was developed using HTML, CSS, and JavaScript. The design is simple yet functional, allowing users to add new tasks and delete them with ease.
